@@ -3,6 +3,9 @@
 This repository hopes to recreate the style transfer effect of other popular neural nets (made mostly to practice with keras). 
 Currently, it only creates grayscale images.
 
+An example of an image generated from the "marker.h5" model created via NeuroStyle:
+![alt text](https://github.com/jlehett/NeuroStyle/blob/master/saved_images/reach_sketch.PNG "Example 1")
+
 ## Getting Started
 
 First, add 3 empty folders to the root directory: "training", "truth", "unused". Since these folders were empty, they did not get pushed to the repo.
