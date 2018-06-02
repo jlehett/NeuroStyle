@@ -58,3 +58,7 @@ Overall code organization could use a little work. Especially for GUI code, sinc
 ## Examples
 
 Examples of one neural network I trained can be found in the saved_images folder already. I trained this neural network on 2 images, one of an apple, and one of an orange, which I paired with hand drawn outlines of the most defining features. This resulted in a cool marker or charcoal-drawn look. If you would like to use this model on your own images, the model is stored in the "models" folder under the name "marker.h5"
+
+## Note on "unused" Folder
+
+This folder is where you can store images that you want to train on or filter with a model. Not necessary, but helpful to keep all images in one place.
