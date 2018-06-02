@@ -5,6 +5,8 @@ Currently, it only creates grayscale images.
 
 ## Getting Started
 
+First, add 3 empty folders to the root directory: "training", "truth", "unused". Since these folders were empty, they did not get pushed to the repo.
+
 To run NeuroStyle, simply run ui.py. This will pull up a Tkinter window that allows for training of models, viewing of models, and adjustment of settings.
 
 ### Prerequisites
